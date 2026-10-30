@@ -1,4 +1,4 @@
-# Spark to Blaze
+# Ember Alert
 
 **Predicting large wildfires in Alberta at initial assessment.**
 
